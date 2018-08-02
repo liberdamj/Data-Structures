@@ -1,5 +1,4 @@
 /**  Professor: Dr. Eickemeyer
-*    Student: Malachi Liberda -- liberdamj@masters.edu
 *    02.08.2018
 *    Exercise18_35 uses recursion to draw out an I Fractal Example similar to an H Fractal.
 */
