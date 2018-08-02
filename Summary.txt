@@ -1,0 +1,5 @@
+Data Structures -- Fall 2018 -- Malachi Liberda
+Professor: Dr. Eickemeyer
+
+Date Structures Course (TIME HERE)\
+Java class Part 2.
